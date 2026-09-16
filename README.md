@@ -1,84 +1,78 @@
-<h1 align="center">⚡ Thivakar S P — Engineering Scalable Systems, Today</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Developer Emoji" width="120" />
-</p>
-
-<p align="center">
-  💻 <b>Software Engineer</b> | 🚀 <b>Backend Architecture</b> | 🏆 <b>LeetCode Knight</b><br>
-  <i>"Writing Clean Code. Building Scalable Software."</i>
-</p>
+<div align="center">
+  <!-- You can replace the GIF link below with whichever one you chose! -->
+  <img src="https://media.giphy.com/media/s2uWqhgGDaYNO/giphy.gif" alt="Matrix Hacker Vibe" width="350" />
+  
+  <h1>Hi there, I'm Thivakar S P 👋</h1>
+  <p><b>Backend Engineer | Systems Architect | Competitive Programmer</b></p>
+  <p><i>Building resilient microservices, developer tools, and scalable event-driven systems.</i></p>
+  
+  <p>
+    <a href="https://linkedin.com/in/thivakarparthiban"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:hello.thivakar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
 ---
 
-### 🚀 Tech Arsenal
+### 👨‍💻 About My Engineering Journey
+I am a software engineer focused on writing clean code and designing systems that can handle high scale. Whether I am architecting a fanout engine with Kafka, implementing token-bucket rate limiters in Spring Boot, or optimizing my Data Structures knowledge on LeetCode, I thrive on solving complex technical challenges. 
 
-🧠 **Programming Languages**
+- 🎓 Information Technology Undergrad at SKCET (2023–2027).
+- 🏆 **LeetCode Knight** — Conquered 500+ DSA problems.
+- 🤝 Hackathon Veteran — Adobe India Hackathon, Amazon HackOn, Smart India Hackathon (SIH), MSME Idea Hackathon, and SAP Hackathon.
+
+---
+
+### 🛠️ The Tech Arsenal
+
+**Backend & Architecture**
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-🎨 **Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-⚙️ **Backend & Databases**
-<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+
+**Databases & Messaging**
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
 </p>
 
-🛠️ **Tools & Cloud**
+**Cloud & Infrastructure**
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 What I Build
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThivakarSP&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+I focus on building software that operates efficiently behind the scenes. Here are the core areas I engineer in:
 
----
-
-### 🎯 Current Missions
-
-🔭 **Ongoing & Recent Builds**
-* 🚀 **Async Notification Fanout Engine** — A robust messaging system engineered with Go, Kafka, Redis, and PostgreSQL to process and deliver real-time user alerts safely and efficiently.
-* 🛡️ **Distributed API Rate Limiter** — A scalable traffic control service using Java, Spring Boot, and Redis token-bucket algorithms, containerized and deployed to AWS.
-
-✅ **Completed Missions**
-* 🔗 **CodeTrail** — A custom Chrome browser extension bridging LeetCode and GitHub to automatically synchronize solved problems and optimize the developer workflow. 
+* 📡 **Event-Driven Systems:** Designing high-throughput, reliable messaging architectures (like Async Notification Fanout Engines) to process and deliver real-time data seamlessly using Go and Kafka.
+* 🛡️ **Distributed Security & Traffic Control:** Implementing robust API gateways and Distributed Rate Limiters to protect infrastructure from traffic spikes, utilizing Redis algorithms and Spring Boot.
+* 🔧 **Developer Productivity Tools:** Building seamless browser extensions (like CodeTrail) using JavaScript and Chrome APIs to automate workflows, bridging the gap between coding platforms like LeetCode and version control on GitHub.
 
 ---
 
-### 💡 Expertise
+### 📜 Certifications
 
-* 🛠️ **Backend & Microservices:** Designing resilient REST APIs and distributed architecture using Spring Boot, Go, and message brokers (Kafka/Redis).
-* 🧠 **Problem Solving:** LeetCode Knight status with over 500+ Data Structures and Algorithms problems conquered.
-* ☁️ **Cloud Architecture:** Scaling and deploying robust systems leveraging AWS, Docker, and modern CI/CD practices.
+* **Microsoft Certified:** SQL AI Developer Associate (DP-800)
+* **Nutanix Certified:** Professional Network and Security (NCP-NS) & Multicloud Infrastructure (MCI)
+* **AWS Certified:** Cloud Practitioner
+* **Google:** AI Essentials
 
 ---
 
-### 📫 Connect With Me
+### 📈 GitHub Analytics
 
-<p>
-  <a href="https://linkedin.com/in/thivakarparthiban"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:hello.thivakar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThivakarSP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThivakarSP&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
